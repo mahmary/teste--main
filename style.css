@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 1920px;
+    
+}
+head{
+    
+    background-color: blue;
+    display: flex;
+    padding: 55px ;
+    max-width: 1920px;
+    align-items: flex-start;
+    width: 1920px;
+
+}
+.colegio-do-porto{
+    top: 15px;
+    display: inline;
+    font-size: 70px;
+    position: absolute;
+   color: black;
+   font-family:unset;
+   justify-content: start;
+   left: 500px;
+    
+}
+.desenvolvimento-e-progresso{
+    /* top: 110px; */
+    display: flex;
+    font-size: 50px;
+    position:relative;
+    color: black;
+    justify-content: unset;
+    left: 50px;
+}
+
+.navbar{
+
+}
+
