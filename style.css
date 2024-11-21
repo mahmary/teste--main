@@ -36,6 +36,22 @@ head{
 }
 
 .navbar{
-
+    background-color: blueviolet;
+    padding: 10px 0;
 }
+
+.navbar ul{
+   list-style:none;
+   padding: 0 ;
+   display: flex;
+   margin: 0 15px;
+}
+
+.navbar ul li a{
+    color: darkviolet;
+    text-decoration: none;
+    transition: color 0.3 ease;
+}
+
+
 
