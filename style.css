@@ -6,13 +6,17 @@
 }
 head{
     
-    background-color: blue;
+    
     display: flex;
     padding: 55px ;
     max-width: 1920px;
     align-items: flex-start;
     width: 1920px;
 
+}
+
+body{
+background-color: #E7F0DC;
 }
 .colegio-do-porto{
     top: 15px;
@@ -26,31 +30,45 @@ head{
     
 }
 .desenvolvimento-e-progresso{
-    /* top: 110px; */
-    display: flex;
     font-size: 50px;
     position:relative;
     color: black;
-    justify-content: unset;
-    left: 50px;
+    justify-content: center;
+    left: 467px;
 }
 
 .navbar{
-    background-color: blueviolet;
+    background-color:#597445;
     padding: 10px 0;
 }
 
 .navbar ul{
    list-style:none;
-   padding: 0 ;
+   padding: 0 ; 
    display: flex;
    margin: 0 15px;
+   justify-content: center;
 }
 
 .navbar ul li a{
-    color: darkviolet;
+    color: rgb(0, 0, 0);
     text-decoration: none;
-    transition: color 0.3 ease;
+    transition: color 0.3 ease #fff;
+    font-size: 18px;
+}
+
+.navbar ul li{
+    margin: 0 15px;
+}
+
+.navbar ul li a:hover{
+color: #E7F0DC;
+text-decoration: underline red;
+border-radius: 100px;
+}
+
+.conteudo-principal-da-pagina {
+top
 }
 
 
