@@ -20,13 +20,12 @@ background-color: #E7F0DC;
 }
 .colegio-do-porto{
     top: 15px;
-    display: inline;
     font-size: 70px;
     position: absolute;
    color: black;
    font-family:unset;
    justify-content: start;
-   left: 500px;
+   left: 700px;
     
 }
 .desenvolvimento-e-progresso{
@@ -34,7 +33,7 @@ background-color: #E7F0DC;
     position:relative;
     color: black;
     justify-content: center;
-    left: 467px;
+    left: 660px;
 }
 
 .navbar{
@@ -63,12 +62,40 @@ background-color: #E7F0DC;
 
 .navbar ul li a:hover{
 color: #E7F0DC;
-text-decoration: underline red;
+text-decoration: underline green    ;
 border-radius: 100px;
+transition: 500ms;
+}
+.texto-do-meio{
+    font-size: 22px;
+    margin: 30px 50px;
+    letter-spacing: 0,5px ;
+    line-height: 35px;
 }
 
-.conteudo-principal-da-pagina {
-top
+.escola-subtitulo{
+    font-size: 50px;
+    text-align: center;
+    margin: 25px;
+}
+.historia{
+margin: 55px;
+font-size: 50px;
+text-align: center;
+}
+.sobre-nos{
+    font-size: 22px;
+    margin: 30px 50px;
+    letter-spacing: 0,5px ;
+    line-height: 35px;
+    padding: 25px;
+    background-color: #59744565;
+    border-radius: 25px;
+}
+.serviços{
+    margin: 55px;
+    font-size: 50px;
+    text-align: center;
 }
 
 
