@@ -66,6 +66,7 @@ text-decoration: underline green    ;
 border-radius: 100px;
 transition: 500ms;
 }
+
 .texto-do-meio{
     font-size: 22px;
     margin: 30px 50px;
@@ -97,6 +98,29 @@ text-align: center;
     font-size: 50px;
     text-align: center;
 }
-
+.detalhe{
+    text-align: center;
+    margin: 55px;
+    font-size: 22px ;
+    line-height: 35px;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #8cff0027;
+}
+.contato-tamanho{
+    margin: 55px;
+    text-align: start;
+}
+.icone_link{
+    font-size: 25px;
+}
+footer{
+    background-color: #597445  ;
+    padding: 25px;
+}
+.icone_baixo{
+    text-align: center;
+    font-size: 15px;
+}
 
 
